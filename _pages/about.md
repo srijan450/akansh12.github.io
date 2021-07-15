@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hey, my name is Akansh Maurya and I am a student pursuing electrical engineering from the Institute of Engineering and Technology, Lucknow. My research interest lies in the field of machine learning, signal processing, and control systems. So, in previous centuries, scientists like Fourier were able to solve complex mathematical problems but there still exist a vast number of unformulated problems that we encounter remaining unsolved. I believe that data analysis is the key, in fact, I call data analysis the new alchemy :D. I am currently doing a research internship at SPIRE lab, IISC Bengaluru, under the guidance of Dr. Prashanta Kumar Ghosh. The project is the detection of asthmatic patients based on cough sound and other phonation. Till now it's a great experience and I am getting familiar with app development and model deployment. Prior to this, I worked as a research intern at the ERTS lab, Indian Institute of Technology, Bombay. This project was guided by Prof. Kavi Arya and Omkar sir. The project was titled An efficient way to verify and validate College ID cards using Deep Learning. You can read more about this project here. Other than having a penchant for the above-mentioned field, some of my hobbies include reading about geopolitics, world history, and science fiction. I enjoy all kinds of sports from cricket to badminton, to be honest, I feel that I am a jack of all but master of none. 
 
 A data-driven personal website
 ======
