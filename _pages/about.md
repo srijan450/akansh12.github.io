@@ -10,7 +10,7 @@ redirect_from:
 
 Hey, my name is Akansh Maurya and I am a student pursuing electrical engineering from the Institute of Engineering and Technology, Lucknow. My research interest lies in the field of machine learning, signal processing, and control systems. So, in previous centuries, scientists like Fourier were able to solve complex mathematical problems but there still exist a vast number of unformulated problems that we encounter remaining unsolved. I believe that data analysis is the key, in fact, I call data analysis the new alchemy :D. I am currently doing a research internship at SPIRE lab, IISC Bengaluru, under the guidance of Dr. Prashanta Kumar Ghosh. The project is the detection of asthmatic patients based on cough sound and other phonation. Till now it's a great experience and I am getting familiar with app development and model deployment. Prior to this, I worked as a research intern at the ERTS lab, Indian Institute of Technology, Bombay. This project was guided by Prof. Kavi Arya and Omkar sir. The project was titled An efficient way to verify and validate College ID cards using Deep Learning. You can read more about this project here. Other than having a penchant for the above-mentioned field, some of my hobbies include reading about geopolitics, world history, and science fiction. I enjoy all kinds of sports from cricket to badminton, to be honest, I feel that I am a jack of all but master of none. 
 
-A data-driven personal website
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,3 +48,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
