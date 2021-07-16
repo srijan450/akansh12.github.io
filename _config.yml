@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &akansh_maurya
+  username               : akansh_maurya
 facebook:
   username               :
   app_id                 :
@@ -83,8 +83,8 @@ author:
   name             : "Akansh Maurya"
   avatar           : "profile.png"
   bio              : "I am a student pursuing Electrical Engineering, intrested in Deep Learning and its interdisciplinary nature. "
-  location         : "India"
-  employer         :  "Robert Bosch Centre for Data Science and AI"
+  location         : "Researcher"
+  employer         :  "Robert Bosch lab,IIT Madras"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  akanshmaurya@gmail.com
