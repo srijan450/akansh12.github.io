@@ -14,7 +14,7 @@ redirect_from:
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
 <script>
-  document.onLoad(()=>{location.replace('https://akansh12.github.io/blogs/index.html)});}
+  document.onLoad(()=>{location.replace('https://akansh12.github.io/blogs/index.html')});
 </script>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
